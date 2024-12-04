@@ -1,0 +1,42 @@
+[
+    {
+        "question": "1. Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android?\r",
+        "choices": [
+            "A. TextView",
+            "B. Button",
+            "C. Service",
+            "D. ImageView"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "2.BroadcastReceiver được sử dụng để làm gì?\r",
+        "choices": [
+            "A. Nhận các thông báo từ hệ thống.",
+            "B. Gửi dữ liệu qua mạng.",
+            "C. Tạo giao diện người dùng.",
+            "D. Xử lý sự kiện."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "3. SQLite là gì?\r",
+        "choices": [
+            "A. Một hệ quản trị cơ sở dữ liệu.",
+            "B. Một ngôn ngữ lập trình.",
+            "C. Một framework.",
+            "D. Một IDE."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "4. ContentProvider được sử dụng để làm gì?\r",
+        "choices": [
+            "A. Chia sẻ dữ liệu giữa các ứng dụng.",
+            "B. Tạo giao diện người dùng.",
+            "C. Xử lý sự kiện.",
+            "D. Lưu trữ dữ liệu."
+        ],
+        "answer": "A"
+    }
+]

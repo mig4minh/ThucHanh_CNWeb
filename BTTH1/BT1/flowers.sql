@@ -16,4 +16,8 @@ INSERT INTO flowers (name, description, image) VALUES
 ('Hoa Mai', '', 'images/mai.jpg'),
 ('Hoa Tường Vy', '', 'images/tuongvy.jpg');
 
+delete from flowers
+
+
+
 SELECT * FROM flowers
