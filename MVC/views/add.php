@@ -1,5 +1,4 @@
 <?php
-// views/add.php
 ?>
 
 <!DOCTYPE html>

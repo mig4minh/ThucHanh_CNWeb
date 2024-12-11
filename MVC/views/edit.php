@@ -1,5 +1,4 @@
 <?php
-// views/edit.php
 ?>
 
 <!DOCTYPE html>
